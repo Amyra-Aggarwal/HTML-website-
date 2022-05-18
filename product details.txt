@@ -70,6 +70,81 @@
         </div>
     </div>
 </div>
+<div class="row">
+        <div class="col-4">
+            <a href="#">
+            <img src="product-5.jpg" alt="">
+            <h4>Sparks Shoes(grey)</h4>
+            <div class="rating">
+                &#x2605;&#x2605;&#x2605;</a>
+            </div>
+            <p>&#8377;1699</p>
+        </div>
+        <div class="col-4">
+            <a href="#">
+            <img src="product-6.jpg" alt="">
+            <h4>Puma T-shirt(black)</h4>
+            <div class="rating">
+                &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</a>
+            </div>
+            <p>&#8377;1299</p>
+        </div>
+        <div class="col-4">
+            <a href="#">
+            <img src="product-7.jpg" alt="">
+            <h4>HRX Scoks</h4>
+            <div class="rating">
+                &#x2605;&#x2605;&#x2605;&#x2605;</a>
+            </div>
+            <p>&#8377;1349</p>
+        </div>
+        <div class="col-4">
+            <a href="a">
+            <img src="product-9.jpg" alt="">
+            <h4>Roadster watch(black)</h4>
+            <div class="rating">
+                &#x2605;&#x2605;&#x2605;</a>
+            </div>
+            <p>&#8377;1499</p>
+        </div>
+        <div class="row">
+            <div class="col-4">
+                <a href="#">
+                <img src="product-10.jpg" alt="">
+                <h4>HRX Shoes(black)</h4>
+                <div class="rating">
+                    &#x2605;&#x2605;&#x2605;&#x2605;</a>
+                </div>
+                <p>&#8377;1699</p>
+            </div>
+            <div class="col-4">
+                <a href="#">
+                <img src="product-11.jpg"  alt="">
+                <h4>Sparks Shoes</h4>
+                <div class="rating">
+                    &#x2605;&#x2605;&#x2605;&#x2605;</a>
+                </div>
+                <p>&#8377;1299</p>
+            </div>
+            <div class="col-4">
+                <a href="#">
+                <img src="product-12.jpg"  alt="">
+                <h4>Pants</h4>
+                <div class="rating">
+                    &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</a>
+                </div>
+                <p>&#8377;1349</p>
+            </div>
+            <div class="col-4">
+                <a href="#">
+                <img src="product-8.jpg" alt="">
+                <h4>Fossil Watch(black)</h4>
+                <div class="rating">
+                    &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</a>
+                </div>
+                <p>&#8377;1499</p>
+            </div>
+</div>
 
     <!--footer-->
 <div class="footer">
