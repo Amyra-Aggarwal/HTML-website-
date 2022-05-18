@@ -170,6 +170,7 @@
                     </div>
                     <p>&#8377;1499</p>
                 </div>
+               
     </div>
 
     <!--testimonial-->
@@ -202,6 +203,28 @@
                 </div>
                 <img src="user-3.png" alt="">
                 <h3>Gwen Stacy</h3>
+        </div>
+    </div>
+<!--brands-->
+    <div class="brands">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-5">
+                    <img src="logo-coca-cola.png" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="logo-godrej.png" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="logo-oppo.png" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="logo-paypal.png" alt="">
+                </div>
+                <div class="col-5">
+                    <img src="logo-philips.png" alt="">
+                </div>
+            </div>
         </div>
     </div>
     <!--footer-->
